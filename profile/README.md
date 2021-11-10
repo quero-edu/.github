@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p align="center">
   <img src="https://kong.quero.com/logotype-education-light.svg" alt="Quero Educação"/>
-</div>
+</p>
 
 <br />
 
