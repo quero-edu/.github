@@ -2,8 +2,6 @@
   <img src="https://kong.quero.com/logotype-education-light.svg" alt="Quero Educação"/>
 </p>
 
-<br />
-
 > We are technologists and communicators developing solutions so that more people
 have access to quality education.
 
