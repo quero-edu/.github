@@ -1,8 +1,8 @@
 <div style="text-align: center;">
-
-# ![Quero Educação](https://kong.quero.com/logotype-education-light.svg)
-
+  <img src="https://kong.quero.com/logotype-education-light.svg" alt="Quero Educação"/>
 </div>
+
+<br />
 
 > We are technologists and communicators developing solutions so that more people
 have access to quality education.
@@ -39,10 +39,3 @@ we are always sharing our day to day.
     </td>
   </tr>
 </table>
-
-
-<div style="text-align: center;">
-
-![Feito com amor pela Quero educação](https://kong.quero.com/querowithlove-black.svg)
-
-</div>
