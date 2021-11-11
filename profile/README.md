@@ -11,6 +11,8 @@ we are always sharing our day to day.
 
 [We're Hiring 💃 Join our team](https://jobs.lever.co/quero.education?department=Tecnologia).
 
+## Discover our products developed with love and prime of our ed tech
+
 <table>
   <tr>
     <td>
