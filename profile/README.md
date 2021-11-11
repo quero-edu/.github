@@ -9,7 +9,7 @@ Follow our articles in the [Medium](https://medium.com/techatquero) and our
 videos in the [Youtube](https://www.youtube.com/c/QueroEduca%C3%A7%C3%A3o),
 we are always sharing our day to day.
 
-[We have open vacancies](https://jobs.lever.co/quero.education?department=Tecnologia).
+[We're Hiring 💃 Join our team](https://jobs.lever.co/quero.education?department=Tecnologia).
 
 <table>
   <tr>
