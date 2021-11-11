@@ -3,7 +3,7 @@
 </p>
 
 > We are technologists and communicators developing solutions so that more people
-have access to quality education.
+have access to a good quality education.
 
 Follow our articles in the [Medium](https://medium.com/techatquero) and our
 videos in the [Youtube](https://www.youtube.com/c/QueroEduca%C3%A7%C3%A3o),
