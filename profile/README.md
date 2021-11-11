@@ -5,9 +5,9 @@
 > We are technologists and communicators developing solutions so that more people
 have access to a good quality education.
 
-Follow our articles in the [Medium](https://medium.com/techatquero) and our
-videos in the [Youtube](https://www.youtube.com/c/QueroEduca%C3%A7%C3%A3o),
-we are always sharing our day to day.
+Check out our [Medium](https://medium.com/techatquero) articles and our
+[Youtube](https://www.youtube.com/c/QueroEduca%C3%A7%C3%A3o) videos, we are
+always sharing our day to day.
 
 [We're Hiring 💃 Join our team](https://jobs.lever.co/quero.education?department=Tecnologia).
 
