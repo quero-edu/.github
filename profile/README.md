@@ -2,8 +2,8 @@
   <img src="https://kong.quero.com/logotype-education-light.svg" alt="Quero Educação"/>
 </p>
 
-> We are technologists and communicators developing solutions so that more people
-have access to a good quality education.
+> We are technologists and communicators developing solutions to bring together
+those who want to learn with experts in teaching.
 
 Check out our [Medium](https://medium.com/techatquero) articles and our
 [Youtube](https://www.youtube.com/c/QueroEduca%C3%A7%C3%A3o) videos, we are
