@@ -2,8 +2,7 @@
   <img src="https://kong.quero.com/logotype-education-light.svg" alt="Quero Educação"/>
 </p>
 
-> We are technologists and communicators developing solutions to bring together
-those who want to learn with experts in teaching.
+> We are technologists and communicators developing solutions to bring together those who want to learn with experts in teaching.
 
 Check out our [Medium](https://medium.com/techatquero) articles and our
 [Youtube](https://www.youtube.com/c/QueroEduca%C3%A7%C3%A3o) videos, we are
@@ -15,9 +14,16 @@ always sharing our day to day.
 
 <table>
   <tr>
-    <td>
+    <td colspan="2">
       <a href="https://querobolsa.com.br/">
-        <img src="https://kong.quero.com/og-querobolsa.png" alt="Quero Bolsa"/>
+        <img src="https://kong.quero.com/og-querobolsa.png" width="100%" alt="Quero Bolsa"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.melhorescola.com.br/">
+        <img src="https://kong.quero.com/og-melhorescola.png" alt="Melhor Escola"/>
       </a>
     </td>
     <td>
