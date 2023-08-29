@@ -8,7 +8,7 @@ Check out our [Medium](https://medium.com/techatquero) articles and our
 [Youtube](https://www.youtube.com/c/QueroEduca%C3%A7%C3%A3o) videos, we are
 always sharing our day to day.
 
-[We're Hiring 💃 Join our team](https://jobs.kenoby.com/quero-educacao).
+[We're Hiring 💃 Join our team](https://quero-educacao.gupy.io/).
 
 ## Discover our products developed with love and prime of our ed tech
 
