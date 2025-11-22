@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://kong.quero.com/logotype-education-light.svg" alt="Quero Educação"/>
-</p>
+<hr/>
+<div align="center">
+  <img src="https://qeevo.com.br/wp-content/uploads/2025/09/qeevo_logo_branco-scaled-1-1536x460.png" alt="qeevo group" width="360px" />
+</div>
+<hr/>
+
 
 > We are technologists and communicators developing solutions to bring together those who want to learn with experts in teaching.
 
